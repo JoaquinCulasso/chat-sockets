@@ -1,0 +1,34 @@
+#messages{
+    width: 95%;
+    max-width: 400px;
+    height: 350px;
+    overflow: scroll;
+    border: 1px solid #eee;
+    box-shadow: 0px 0px 20px #ccc inset;
+}
+
+.message{
+    margin: 20px;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    background: white;
+}
+
+#form{
+    width: 30.8%;
+    height: 232px;
+    box-shadow: 0px 0px 20px #ccc inset;
+}
+
+label{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#nickname {
+    margin-left: 10px;
+}
+
+#text{
+    vertical-align: top;
+}
